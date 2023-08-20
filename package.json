@@ -1,6 +1,6 @@
 {
   "name": "@sandercokart/eslint-config-next-13",
-  "version": "1.0.5",
+  "version": "2.0.0",
   "private": false,
   "type": "commonjs",
   "repository": {
@@ -11,7 +11,7 @@
     "url": "https://github.com/SanderCokart/eslint-config-sandercokart-next-13/issues"
   },
   "description": "Opinionated ESLint config from Sander Cokart",
-  "main": ".eslintrc.js",
+  "main": ".eslintrc.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,10 +23,15 @@
   "author": "Sander Cokart",
   "license": "MIT",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "6.4.0",
+    "@typescript-eslint/eslint-plugin": "^6.4.0",
     "@typescript-eslint/parser": "^6.4.0",
+    "eslint": "^8.47.0",
+    "eslint-config-next": "^13.4.4",
+    "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "typescript": "^5.1.6"
+    "eslint-plugin-tailwindcss": "^3.12.1",
+    "typescript": "^5.1.6",
+    "next": "^13.4.19"
   },
   "devDependencies": {
     "@changesets/cli": "^2.26.2"

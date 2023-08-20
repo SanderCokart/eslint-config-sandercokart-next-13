@@ -1,5 +1,11 @@
 # eslint-config-sandercokart-next-13
 
+## 2.0.0
+
+### Major Changes
+
+- All errors fixed
+
 ## 1.0.5
 
 ### Patch Changes
