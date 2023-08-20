@@ -1,5 +1,11 @@
 # eslint-config-sandercokart-next-13
 
+## 1.0.4
+
+### Patch Changes
+
+- Moved files
+
 ## 1.0.3
 
 ### Patch Changes

@@ -1,3 +1,7 @@
 {
-  "@typescript-eslint/consistent-type-imports": "warn"
+  "plugins": [
+    "@typescript-eslint"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "@typescript-eslint/consistent-type-imports": "warn",
 }
