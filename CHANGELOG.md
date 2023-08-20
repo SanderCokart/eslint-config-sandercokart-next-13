@@ -1,5 +1,11 @@
 # eslint-config-sandercokart-next-13
 
+## 3.0.0
+
+### Major Changes
+
+- Sloppy coding fixed
+
 ## 2.0.0
 
 ### Major Changes
