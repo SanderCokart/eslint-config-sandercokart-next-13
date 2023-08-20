@@ -1,5 +1,11 @@
 # eslint-config-sandercokart-next-13
 
+## 1.0.3
+
+### Patch Changes
+
+- Added parser
+
 ## 1.0.2
 
 ### Patch Changes

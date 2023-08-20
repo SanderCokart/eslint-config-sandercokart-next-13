@@ -5,6 +5,7 @@ module.exports = {
         './extensions/lint-typescript.json',
         'prettier'
     ],
+    parser: '@typescript-eslint/parser',
     'plugins': [
         '@typescript-eslint'
     ],
