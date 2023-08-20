@@ -1,6 +1,6 @@
 {
   "name": "@sandercokart/eslint-config-next-13",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
   "type": "commonjs",
   "repository": {
@@ -24,7 +24,7 @@
   "license": "MIT",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "6.4.0",
-    "eslint-plugin-prettier": "^5.0.0"
+    "eslint-plugin-prettier": "^4.2.1"
   },
   "devDependencies": {
     "@changesets/cli": "^2.26.2"

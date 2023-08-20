@@ -1,5 +1,11 @@
 # eslint-config-sandercokart-next-13
 
+## 1.0.2
+
+### Patch Changes
+
+- Fix wrong package installed
+
 ## 1.0.1
 
 ### Patch Changes
