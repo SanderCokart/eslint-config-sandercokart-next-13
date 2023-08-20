@@ -3,5 +3,5 @@
     "@typescript-eslint"
   ],
   "parser": "@typescript-eslint/parser",
-  "@typescript-eslint/consistent-type-imports": "warn",
+  "@typescript-eslint/consistent-type-imports": "warn"
 }

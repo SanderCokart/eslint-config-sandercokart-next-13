@@ -1,5 +1,11 @@
 # eslint-config-sandercokart-next-13
 
+## 1.0.5
+
+### Patch Changes
+
+- remove comma
+
 ## 1.0.4
 
 ### Patch Changes
