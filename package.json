@@ -1,0 +1,32 @@
+{
+  "name": "@sandercokart/eslint-config-next-13",
+  "version": "1.0.0",
+  "private": false,
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SanderCokart/eslint-config-sandercokart-next-13.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SanderCokart/eslint-config-sandercokart-next-13/issues"
+  },
+  "description": "Opinionated ESLint config from Sander Cokart",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "opinionated"
+  ],
+  "author": "Sander Cokart",
+  "license": "MIT",
+  "devDependencies": {
+    "@changesets/cli": "^2.26.2"
+  },
+  "peerDependencies": {
+    "eslint": "^8.47.0"
+  },
+  "packageManager": "pnpm@8.6.12"
+}
